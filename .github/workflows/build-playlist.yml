@@ -1,0 +1,41 @@
+name: Build IPTV playlist
+
+on:
+  schedule:
+    - cron: "17 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - name: Generate playlist
+        run: python generate_playlist.py
+
+      - name: Validate playlist
+        run: python generate_playlist.py --validate-only iptv.m3u
+
+      - name: Commit playlist changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- iptv.m3u; then
+            echo "No playlist changes to commit."
+          else
+            git add iptv.m3u
+            git commit -m "Update IPTV playlist"
+            git push origin main
+          fi
