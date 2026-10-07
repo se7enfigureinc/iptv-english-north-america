@@ -1225,7 +1225,7 @@ https://oitnhls.wns.live/hls/stream.m3u8
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 #EXTINF:-1 tvg-id="OvercomersTV.us@SD" tvg-name="Overcomers TV" tvg-logo="https://overcomerstv.live/wp-content/uploads/2025/10/Overcomers-tv.png" group-title="United States / Entertainment",Overcomers TV (720p)
 https://glorystartv.live/Overcomers/index.m3u8
-#EXTINF:-1 tvg-id="Oxygen.us@East" tvg-name="Oxygen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="United States / Entertainment",Oxygen (720p)
+#EXTINF:-1 tvg-id="Oxygen.us@East" tvg-name="Oxygen (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="United States / Entertainment",Oxygen (720p)
 http://198.58.104.90:8989/oxygen/index.m3u8
 #EXTINF:-1 tvg-id="PacificIslandNetwork.us@HD" tvg-name="Pacific Island Network" tvg-logo="https://i.imgur.com/OtT1qYE.png" group-title="United States / Entertainment",Pacific Island Network (1080p)
 https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8
