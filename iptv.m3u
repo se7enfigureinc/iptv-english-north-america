@@ -1369,8 +1369,8 @@ https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@WCAU" tvg-name="Telemundo" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="United States / Entertainment",Telemundo WCAU (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
-#EXTINF:-1 tvg-id="Telemundo.us@West" tvg-name="Telemundo" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="United States / Entertainment",Telemundo West (2160p)
-http://168.228.44.241:9997/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@West" tvg-name="Telemundo" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="United States / Entertainment",Telemundo West (720p)
+http://45.5.117.57:8900/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="TheBurbankChannel.us@SD" tvg-name="The Burbank Channel" tvg-logo="https://i.imgur.com/SpkR1Fb.png" group-title="United States / Entertainment",The Burbank Channel (720p)
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 #EXTINF:-1 tvg-id="TheMontereyChannel.us@SD" tvg-name="The Monterey Channel" tvg-logo="https://i.imgur.com/400m3ow.png" group-title="United States / Entertainment",The Monterey Channel (720p)
@@ -3094,9 +3094,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u
 #EXTINF:-1 tvg-id="UniMas.us@WXTVDT" tvg-name="UniMas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="United States / Other English",UniMas WXTV-DT (1080p)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:-1 tvg-id="Univision.us@East" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="United States / Other English",Univision (1080p)
-http://38.252.238.18:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="Univision.us@EastHD" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="United States / Other English",Univision East HD (1080p)
-http://45.190.13.8/UnivisionHD/index.m3u8
+http://190.197.41.183/Univision/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us@West" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="United States / Other English",Univision West (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
 #EXTINF:-1 tvg-id="Univision.us@WGBODT" tvg-name="Univision" tvg-logo="https://i.imgur.com/5RIEi99.png" group-title="United States / Other English" http-referrer="http://tv.univision.com/player/channel/univision-chicago",Univision WGBO-DT (2160p)
@@ -3297,8 +3295,8 @@ https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" tvg-name="Afrobeat TV Entertainment" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="United Kingdom / Music",Afrobeat TV Entertainment (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-id="MTVGlobal.uk@SD" tvg-name="MTV Global" tvg-logo="https://i.imgur.com/n2BoU7Q.png" group-title="United Kingdom / Music",MTV Global (720p)
-http://dvr2.kablova.tv/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTVGlobal.uk@SD" tvg-name="MTV Global" tvg-logo="https://i.imgur.com/n2BoU7Q.png" group-title="United Kingdom / Music" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",MTV Global
+http://85.14.32.26:8800/udp/239.100.10.67:5000
 #EXTINF:-1 tvg-id="Now70s.uk@SD" tvg-name="Now 70s" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="United Kingdom / Music",Now 70s (720p)
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk@SD" tvg-name="Now 80s" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="United Kingdom / Music",Now 80s (1080p)
@@ -3363,6 +3361,8 @@ http://212.5.144.156:8080/jimjam/index.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-name="Mr Bean Animated" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="United Kingdom / Kids",Mr Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk@SD" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="United Kingdom / Kids" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Nickelodeon (United Kingdom)
+http://93.186.201.93/stream/397/index.m3u8
 #EXTINF:-1 tvg-id="PopUp.uk@SD" tvg-name="Pop Up" tvg-logo="https://i.imgur.com/GdSotmS.png" group-title="United Kingdom / Kids",Pop Up (1080p) [Geo-blocked]
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="United Kingdom / Kids",Teletubbies (720p)
@@ -3725,7 +3725,7 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 http://ott-7.sevstar.net/belarus24/index.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by@HD" tvg-name="Belarus-24" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="International English / News",Belarus-24 HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BeritaRTM.my@SD" tvg-name="Berita RTM" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="International English / News" http-referrer="https://rtm-player.glueapi.io/",Berita RTM (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="BeritaRTM.my@SD" tvg-name="Berita RTM" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="International English / News" http-referrer="https://rtm-player.glueapi.io/",Berita RTM (1080p)
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-name="Bharat Express" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png" group-title="International English / News",Bharat Express (576p)
 https://cdn.pishow.tv/ott/live/1139/master.m3u8
@@ -3859,8 +3859,6 @@ http://31.148.48.15/RT_HD/index.m3u8
 https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
 #EXTINF:-1 tvg-id="RTHKTV35.hk@HD" tvg-name="RTHK TV 35" tvg-logo="https://i.imgur.com/FQmNKDS.png" group-title="International English / News",RTHK TV 35 (1080p) [Geo-blocked]
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-#EXTINF:-1 tvg-id="RTMASEAN.my@SD" tvg-name="RTM ASEAN" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="International English / News",RTM ASEAN
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="SABCLehae.za@SD" tvg-name="SABC Lehae" tvg-logo="https://i.imgur.com/YhdnZHH.png" group-title="International English / News",SABC Lehae [Geo-blocked]
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-name="SABC News" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="International English / News",SABC News (720p) [Geo-blocked]
@@ -4049,8 +4047,6 @@ https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://88.212.15.50/live/axn_hun/index.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Romania" tvg-name="AXN CEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="International English / Movies" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",AXN CEE Romania
 https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
-#EXTINF:-1 tvg-id="CinemaWorld.my@SD" tvg-name="CinemaWorld" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="International English / Movies",CinemaWorld (720p)
-http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu@SD" tvg-name="Cinemax 2 Central Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" group-title="International English / Movies",Cinemax 2 Central Europe
 http://193.33.39.108:9009/play/a024
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-name="Cinemax Asia" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="International English / Movies",Cinemax Asia (720p) [Geo-blocked]
@@ -4229,8 +4225,6 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 http://213.91.179.28:8000/play/a0c9
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="Star Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="International English / Movies",Star Movies (India) HD (1080p)
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-name="Star Movies Select" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="International English / Movies",Star Movies Select HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se@SE" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="International English / Movies",Star Trek Movies
 https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se@DK" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="International English / Movies",Star Trek Movies DK
@@ -4539,13 +4533,11 @@ https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
 https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
 #EXTINF:-1 tvg-id="Nove.it@SD" tvg-name="Nove" tvg-logo="https://i.imgur.com/rTjIkGO.png" group-title="International English / Entertainment",Nove (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="NTV7.my@SD" tvg-name="NTV7" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-title="International English / Entertainment",NTV7
-https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 #EXTINF:-1 tvg-id="NuViewTV.za@SD" tvg-name="NuView TV" tvg-logo="https://i.imgur.com/dYRJ7F0.png" group-title="International English / Entertainment",NuView TV (360p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NVKSakha.ru@SD" tvg-name="NVK Sakha" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="International English / Entertainment",NVK Sakha (1080p) [Not 24/7]
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-id="Okey.my@SD" tvg-name="Okey" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="International English / Entertainment" http-referrer="https://rtm-player.glueapi.io/",Okey (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Okey.my@SD" tvg-name="Okey" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="International English / Entertainment" http-referrer="https://rtm-player.glueapi.io/",Okey (1080p)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-id="One31.th@SD" tvg-name="One 31" tvg-logo="https://i.imgur.com/HXFNbuc.png" group-title="International English / Entertainment",One 31 (720p)
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
@@ -4644,13 +4636,13 @@ https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
 #EXTINF:-1 tvg-id="Turkmenistan.tm@SD" tvg-name="Turkmenistan" tvg-logo="https://i.imgur.com/iBBpBx4.png" group-title="International English / Entertainment",Turkmenistan (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch007.m3u8
 #EXTINF:-1 tvg-id="TV1.my@SD" tvg-name="TV1" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="International English / Entertainment",TV1 (Malaysia) (1080p)
-https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="TV1.rw@SD" tvg-name="TV1" tvg-logo="https://i.imgur.com/nQNOHJx.png" group-title="International English / Entertainment",TV1 (Rwanda) (480p)
 https://live.tv1.rw/index.m3u8
 #EXTINF:-1 tvg-id="TV2.dz@SD" tvg-name="TV2" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="International English / Entertainment",TV2 (Algeria) (1080p)
 http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:-1 tvg-id="TV2.my@SD" tvg-name="TV2" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="International English / Entertainment",TV2 (Malaysia) (1080p)
-https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+#EXTINF:-1 tvg-id="TV2.my@SD" tvg-name="TV2" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="International English / Entertainment" http-referrer="https://rtm-player.glueapi.io/",TV2 (Malaysia) (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-id="TV3.ws@SD" tvg-name="TV3" tvg-logo="https://i.imgur.com/VT2Tqmr.png" group-title="International English / Entertainment",TV3 (Samoa) (720p) [Not 24/7]
 https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 #EXTINF:-1 tvg-id="TV10.rw@SD" tvg-name="TV10" tvg-logo="https://i.imgur.com/DeaWC1N.png" group-title="International English / Entertainment",TV10 (720p)
@@ -4751,8 +4743,6 @@ https://stream.globalradio.lu/lgr/index.m3u8
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 #EXTINF:-1 tvg-id="MBCLoud.sa@SD" tvg-name="MBC Loud" tvg-logo="https://i.imgur.com/mptwwLs.png" group-title="International English / Music",MBC Loud
 https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr@SD" tvg-name="Mezzo" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="International English / Music" http-user-agent="Enigma2",Mezzo (576p)
-http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-name="Mezzo Live" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="International English / Music",Mezzo Live (1080p)
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="MMTV.mv@SD" tvg-name="MMTV" tvg-logo="https://i.imgur.com/21tpl5b.png" group-title="International English / Music",MMTV (1080p)
@@ -5041,6 +5031,8 @@ https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" tvg-name="Cartoon Network Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="International English / Culture" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",Cartoon Network Asia (720p)
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@Thailand" tvg-name="Cartoon Network Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="International English / Culture",Cartoon Network Asia Thailand
+http://103.253.74.210:7070/stream/118/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" tvg-name="Cartoon Network HD+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="International English / Culture",Cartoon Network HD+ (1080p)
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" tvg-name="Cartoonito Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="International English / Culture" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",Cartoonito Asia (720p)
@@ -5073,8 +5065,6 @@ https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="SaudiThaqafiyaTV.sa@SD" tvg-name="Saudi Thaqafiya TV" tvg-logo="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg" group-title="International English / Culture",Saudi Thaqafiya TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-name="Sony BBC Earth" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="International English / Culture",Sony BBC Earth HD (1080p)
-http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma@SD" tvg-name="StoryChannel TV" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="International English / Culture",StoryChannel TV (720p)
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="SuperscreenTV.ng@SD" tvg-name="Superscreen TV" tvg-logo="https://i.imgur.com/uTNmSWE.png" group-title="International English / Culture",Superscreen TV (412p)
@@ -5465,6 +5455,8 @@ http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-name="Nickelodeon Asia" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="International English / Kids" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Nickelodeon Asia
 http://103.253.74.210:7070/stream/117/index.m3u8
+#EXTINF:-1 tvg-id="NickToons90s.au@AU" tvg-name="NickToons 90s" tvg-logo="https://images.pluto.tv/channels/64805525536e0c0008a19ca8/colorLogoPNG.png" group-title="International English / Kids" http-user-agent="otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56",NickToons 90s [Geo-blocked]
+https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.pl@SD" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="International English / Kids",Nicktoons (Poland) (576i)
 http://92.114.85.87:8013/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.ro@SD" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="International English / Kids",Nicktoons (Romania)
