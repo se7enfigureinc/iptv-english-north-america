@@ -666,7 +666,7 @@ http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywood.us@SD" tvg-name="Made In Hollywood" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="United States / Movies",Made In Hollywood (720p)
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us@SD" tvg-name="Magnificent Movies Network" tvg-logo="https://i.imgur.com/CXjo8kn.png" group-title="United States / Movies",Magnificent Movies Network
-https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD" tvg-name="Maverick Black Cinema" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="United States / Movies",Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaExtrenoHD.us@HD" tvg-name="Mega Extreno HD" tvg-logo="https://cdn.vaughnsoft.net/profile/1792355588/mega_extremo.jpg" group-title="United States / Movies" http-referrer="https://vaughn.live/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",Mega Extreno HD (720p)
@@ -1543,6 +1543,8 @@ https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us@SD" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://i.imgur.com/owUXUih.png" group-title="United States / Music",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+#EXTINF:-1 tvg-id="VH1.us@East" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" group-title="United States / Music",VH1 (1080p)
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-id="VH1QueensofReality.us@SD" tvg-name="VH1 Queens of Reality" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" group-title="United States / Music",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 #EXTINF:-1 tvg-id="VideoMixTV.us@SD" tvg-name="Video Mix TV" tvg-logo="https://i.imgur.com/nyLrIPP.png" group-title="United States / Music",Video Mix TV (1080p)
@@ -2010,7 +2012,7 @@ https://carolburnett-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheLoveBoat.us@SD" tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/62e91563ce7ce300076f917e/colorLogoPNG.png" group-title="United States / Retro / Classic TV",The Love Boat
 https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 #EXTINF:-1 tvg-id="TimelessTV.us@SD" tvg-name="Timeless TV" tvg-logo="https://i.imgur.com/bjcpeVH.png" group-title="United States / Retro / Classic TV",Timeless TV
-https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8
 #EXTINF:-1 tvg-id="TVSCipherNetwork.us@SD" tvg-name="TVS Cipher Network" tvg-logo="https://i.imgur.com/yyz1S2W.png" group-title="United States / Retro / Classic TV",TVS Cipher Network (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
 #EXTINF:-1 tvg-id="TVSHollywoodHistory.us@SD" tvg-name="TVS Hollywood History" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="United States / Retro / Classic TV",TVS Hollywood History (582p)
@@ -2949,8 +2951,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 #EXTINF:-1 tvg-id="JewelryTV.us@SD" tvg-name="Jewelry TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png" group-title="United States / Shopping",Jewelry TV (720p)
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
-#EXTINF:-1 tvg-id="OnTV4U.us@SD" tvg-name="OnTV4U" tvg-logo="https://i.imgur.com/yaCK1Mh.png" group-title="United States / Shopping",OnTV4U (1080p) [Geo-blocked]
-https://stirr.b-cdn.net/stirr/playlist.m3u8
+#EXTINF:-1 tvg-id="OnTV4U.us@SD" tvg-name="OnTV4U" tvg-logo="https://i.imgur.com/yaCK1Mh.png" group-title="United States / Shopping",OnTV4U (1080p)
+https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8
 #EXTINF:-1 tvg-id="QVC2.us@SD" tvg-name="QVC2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest/scale-to-width-down/512" group-title="United States / Shopping",QVC2 (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC3.us@SD" tvg-name="QVC3" tvg-logo="https://i.imgur.com/edswdOO.png" group-title="United States / Shopping",QVC3 (1080p)
@@ -3287,8 +3289,8 @@ https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
 https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8
 #EXTINF:-1 tvg-id="LatestTV.uk@SD" tvg-name="Latest TV" tvg-logo="https://i.imgur.com/Cl1iGEb.jpeg" group-title="United Kingdom / Entertainment",Latest TV (480p)
 https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="More4.uk@SD" tvg-name="More4" tvg-logo="https://i.imgur.com/cx5YcAU.png" group-title="United Kingdom / Entertainment",More4 (360p)
-https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
+#EXTINF:-1 tvg-id="More4.uk@SD" tvg-name="More4" tvg-logo="https://i.imgur.com/cx5YcAU.png" group-title="United Kingdom / Entertainment" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",More4 (576p)
+http://82.47.42.44/stream/402/index.m3u8
 #EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD" tvg-name="The Graham Norton Show" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" group-title="United Kingdom / Entertainment",The Graham Norton Show (1080p)
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk@UK" tvg-name="Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="United Kingdom / Entertainment",Zee One (1080p)
@@ -3345,6 +3347,8 @@ http://37.49.224.5/stream/10/index.m3u8
 http://37.49.224.5/stream/12/index.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk@SD" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="United Kingdom / Documentary",History Hit (1080p)
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.uk@SD" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="United Kingdom / Documentary" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",National Geographic (United Kingdom)
+http://82.47.42.44/stream/405/index.m3u8
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-name="BBC Four/CBeebies" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="United Kingdom / Kids",BBC Four/CBeebies (720p)
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 #EXTINF:-1 tvg-id="CBBC.uk@SD" tvg-name="CBBC" tvg-logo="https://i.imgur.com/tk8G4CU.png" group-title="United Kingdom / Kids",CBBC (720p) [Geo-blocked]
@@ -3499,6 +3503,8 @@ https://hls.autopo.st/hls/britasiatv/index.m3u8
 https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
 #EXTINF:-1 tvg-id="Pop.uk@SD" tvg-name="Pop" tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="United Kingdom / Other English",Pop (1080p)
 https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="Quest.uk@SD" tvg-name="Quest" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb6761.png" group-title="United Kingdom / Other English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Quest
+http://82.47.42.44/stream/385/index.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk@SD" tvg-name="Real Wild" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="United Kingdom / Other English",Real Wild (1080p)
 https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Really.uk@SD" tvg-name="Really" tvg-logo="https://i.imgur.com/lY5sFgo.png" group-title="United Kingdom / Other English",Really
