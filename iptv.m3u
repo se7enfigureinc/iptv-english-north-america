@@ -2145,7 +2145,7 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="BBCKids.us@SD" tvg-name="BBC Kids" tvg-logo="https://i.imgur.com/vKUD64a.png" group-title="United States / Kids",BBC Kids (720p)
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Boomerang.us@SD" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="United States / Kids",Boomerang (720p)
+#EXTINF:-1 tvg-id="Boomerang.us@SD" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="United States / Kids",Boomerang (United States) (720p)
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BratTV.us@SD" tvg-name="Brat TV" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="United States / Kids",Brat TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
@@ -3555,8 +3555,8 @@ http://66.175.238.147:1935/live/myStream/playlist.m3u8
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionCaribbean.kn@SD" tvg-name="Television Caribbean" tvg-logo="https://i.imgur.com/Ogw0COv.png" group-title="Caribbean / Entertainment",Television Caribbean (1080p)
 https://live.kingdom-tv.com:3545/stream/play.m3u8
-#EXTINF:-1 tvg-id="TurismoHD.do@HD" tvg-name="Turismo HD" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="Caribbean / Entertainment",Turismo HD (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 tvg-id="TurismoHD.do@HD" tvg-name="Turismo HD" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="Caribbean / Entertainment",Turismo HD (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPanou.ht@SD" tvg-name="TV Panou" tvg-logo="https://i.imgur.com/zee6sWn.png" group-title="Caribbean / Entertainment",TV Panou (720p) [Not 24/7]
 http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCARiB.sx@SD" tvg-name="TVCARiB" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="Caribbean / Entertainment",TVCARiB (720p) [Not 24/7]
@@ -3587,8 +3587,8 @@ https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
 https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
 #EXTINF:-1 tvg-id="X1027FM.aw@SD" tvg-name="X 102.7 FM" tvg-logo="https://i.imgur.com/28b810Y.png" group-title="Caribbean / Music",X 102.7 FM (720p)
 https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
-#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-name="Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Caribbean / Kids",Tom And Jerry (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-name="Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Caribbean / Kids",Tom And Jerry (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx@SD" tvg-name="TVCARiB Kids & Teens" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="Caribbean / Kids",TVCARiB Kids & Teens (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 tvg-id="BizzTV.tt@SD" tvg-name="Bizz TV" tvg-logo="https://i.imgur.com/UxHaJNR.png" group-title="Caribbean / Lifestyle",Bizz TV (1080p)
@@ -3611,8 +3611,8 @@ https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
 #EXTINF:-1 tvg-id="GNNTV.jm@SD" tvg-name="GNN TV" tvg-logo="https://i.imgur.com/itetPKw.png" group-title="Caribbean / Religious",GNN TV (1080p)
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8
-#EXTINF:-1 tvg-id="LaVozdeJesusHD.do@HD" tvg-name="La Voz de Jesus HD" tvg-logo="https://gia.tv/streams/pstream/208429.png" group-title="Caribbean / Religious",La Voz de Jesus HD (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+#EXTINF:-1 tvg-id="LaVozdeJesusHD.do@HD" tvg-name="La Voz de Jesus HD" tvg-logo="https://gia.tv/streams/pstream/208429.png" group-title="Caribbean / Religious",La Voz de Jesus HD (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8
 #EXTINF:-1 tvg-id="MercyandTruthMinistriesTelevision.jm@SD" tvg-name="Mercy and Truth Ministries Television" tvg-logo="https://i.imgur.com/krcVhrx.png" group-title="Caribbean / Religious",Mercy and Truth Ministries Television (720p)
 https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
 #EXTINF:-1 tvg-id="RiddimHopeTV.tt@SD" tvg-name="Riddim & Hope TV" tvg-logo="https://i.imgur.com/c27k0Bd.png" group-title="Caribbean / Religious",Riddim & Hope TV
@@ -3907,6 +3907,8 @@ http://92.114.85.87:8002/play/a00f/index.m3u8
 http://92.114.85.87:8002/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-name="Eleven Sports 4" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="International English / Sports",Eleven Sports 4 (1080p)
 http://92.114.85.87:8002/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@UK" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="International English / Sports",Eurosport 1 UK (1080p)
+http://85.117.37.43/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport4K.fr@Romania" tvg-name="Eurosport 4K" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="International English / Sports",Eurosport 4K Romania (2160p) [Geo-blocked]
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="Eurosport.fr@Asia" tvg-name="Eurosport" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="International English / Sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Eurosport (France)
@@ -3925,6 +3927,8 @@ https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-name="FightBox" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="International English / Sports",FightBox HD
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD" tvg-name="Formula 1 AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" group-title="International English / Sports",Formula 1 AntenaPlay (576i) [Not 24/7]
+https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@EMEA" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="International English / Sports",FUEL TV (1080p)
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="International English / Sports",FUEL TV AU (1080p)
@@ -3987,6 +3991,8 @@ https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/64
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-name="Setanta Sports 2 Eurasia" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="International English / Sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Setanta Sports 2 Eurasia (1080p)
 http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" tvg-name="Setanta Sports+ Georgia" tvg-logo="https://i.imgur.com/ZtoZQUV.png" group-title="International English / Sports",Setanta Sports+ Georgia (1080p)
+http://85.117.61.84/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="SharjahSports.ae@SD" tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="International English / Sports",Sharjah Sports (1080p) [Geo-blocked]
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch@SD" tvg-name="SKI TV" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="International English / Sports",SKI TV (1080p) [Not 24/7]
