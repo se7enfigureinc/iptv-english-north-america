@@ -3945,6 +3945,8 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it@SD" tvg-name="Nautical Channel" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="International English / Sports",Nautical Channel (720p)
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD" tvg-name="NHL AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png" group-title="International English / Sports",NHL AntenaPlay (576i) [Not 24/7]
+https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-name="Oman Sports TV" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="International English / Sports",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OneGolf.pk@SD" tvg-name="One Golf" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="International English / Sports",One Golf (720p)
@@ -4023,8 +4025,6 @@ http://stream.mcquack.net/461/index.m3u8
 http://stream.mcquack.net/212/index.m3u8
 #EXTINF:-1 tvg-id="Sport.kg@SD" tvg-name="Sport" tvg-logo="https://i.imgur.com/ORCu0w0.png" group-title="International English / Sports",Sport (Kyrgyzstan) (480p) [Not 24/7]
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="International English / Sports",Star Sports Select 2 HD (720p)
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-name="Talent TV" tvg-logo="https://talenttv.lk/logo-footer.png" group-title="International English / Sports",Talent TV (720p)
 http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
 #EXTINF:-1 tvg-id="TAPSports.ph@SD" tvg-name="TAP Sports" tvg-logo="https://i.imgur.com/4GmuJMD.png" group-title="International English / Sports",TAP Sports (1080p) [Geo-blocked]
